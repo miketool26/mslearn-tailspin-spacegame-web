@@ -178,4 +178,6 @@ section {
     height: 100%; }
 
 .no-border {
-  border: none; }
+  border: none;
+  padding: default;
+}
